@@ -858,3 +858,564 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.23-12.40.39:638][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.11.23-12.40.39:641][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2021.11.23-12.40.39:664][573]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.11.23-12.43.30:377][185]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-12.43.30:377][185]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-12.43.32:551][356]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-12.43.32:556][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-12.43.32:556][356]PIE: New page: PIE session: Map (23 нояб. 2021 г., 18:43:32)
+[2021.11.23-12.43.32:580][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.11.23-12.43.32:592][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012337s)
+[2021.11.23-12.43.32:593][356]LogAIModule: Creating AISystem for world Map
+[2021.11.23-12.43.32:593][356]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2021.11.23-12.43.32:593][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.013546s)
+[2021.11.23-12.43.32:598][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.23-12.43.32:600][356]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-12.43.32:600][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-12.43.32:600][356]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-12.43.32:600][356]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-12.43.32:604][356]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-12.43.32:604][356]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-12.43.32:615][356]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.11.23-12.43.32:616][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-12.43.32:616][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-12.43.32:616][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-12.43.32:617][356]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-12.43.32:617][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-12.43.32:617][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-12.43.32:631][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-12.43.32:631][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-12.43.32:631][356]LogInit: FAudioDevice initialized.
+[2021.11.23-12.43.32:631][356]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map'.
+[2021.11.23-12.43.32:639][356]LogLoad: Game class is 'RTSGameMode_C'
+[2021.11.23-12.43.32:641][356]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.11.23-15.43.32
+[2021.11.23-12.43.32:641][356]LogWorld: Bringing up level for play took: 0.001920
+[2021.11.23-12.43.32:641][356]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.11.23-12.43.32:643][356]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-12.43.32:644][356]PIE: Server logged in
+[2021.11.23-12.43.32:645][356]PIE: Play in editor total start time 0,09 seconds.
+[2021.11.23-12.43.35:901][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-12.43.35:901][672]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.11.23-12.43.35:901][672]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-12.43.35:902][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-12.43.35:912][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-12.43.35:913][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-12.43.35:918][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-12.43.35:918][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-12.43.35:919][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-12.43.35:936][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.11.23-12.43.35:964][675]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.11.23-12.44.10:566][217]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-12.44.10:608][217]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-12.44.14:300][585]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-12.44.14:300][585]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-12.44.16:971][859]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2021.11.23-12.44.16:972][859]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-12.45.27:478][510]LogAssetTools: Warning: Failed to import 'D:\Programing\UEProgects\StrategyExample\StrategyExample\Content\Models\Wearpon\M1_M1.uasset'. Unknown extension 'uasset'.
+[2021.11.23-12.45.27:481][510]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.23-12.46.05:577][659]LogAssetTools: Warning: Failed to import 'D:\Programing\UEProgects\StrategyExample\StrategyExample\Content\Buildings\DestroyFacade.uasset'. Unknown extension 'uasset'.
+[2021.11.23-12.46.14:265][878]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Models\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.46.14:265][878]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Models\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.46.14:265][878]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Models\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.46.14:265][878]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.46.14:266][878]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.46.14:266][878]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Models\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.46.14:266][878]LoadErrors: Failed to load /Game/Buildings/FacadeUp.FacadeUp Referenced by FacadeUp2_GEN_VARIABLE
+[2021.11.23-12.46.14:274][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.11.23-12.46.15:158][878]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-12.46.15:263][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.11.23-12.46.15:276][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.11.23-12.46.15:281][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.23-12.46.33:835][ 68]LogAssetTools: Warning: Failed to import 'D:\Programing\UEProgects\StrategyExample\StrategyExample\Content\Buildings\FacadeUp.uasset'. Unknown extension 'uasset'.
+[2021.11.23-12.46.48:047][584]LogContentBrowser: Attempting asset rename: FasadeWindow -> FasadeWindowModel
+[2021.11.23-12.46.48:163][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/FasadeWindowModel" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FasadeWindowModel.uasset" SILENT=true
+[2021.11.23-12.46.48:192][584]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/FasadeWindowModel4FEDCE924E27DD15EEAC8FB24592437C.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FasadeWindowModel.uasset'
+[2021.11.23-12.46.48:263][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-12.46.48:276][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-12.46.48:280][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.46.48:301][584]AssetCheck: New page: Asset Save: FasadeWindowModel
+[2021.11.23-12.46.48:302][584]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/FasadeWindowModel.FasadeWindowModel
+[2021.11.23-12.46.53:344][973]LogContentBrowser: Attempting asset rename: FacadeUp -> FacadeUpModel
+[2021.11.23-12.46.53:400][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/FacadeUpModel" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FacadeUpModel.uasset" SILENT=true
+[2021.11.23-12.46.53:408][973]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/FacadeUpModelED0CD1AC4A8CF447D357C691D3CC7FA2.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FacadeUpModel.uasset'
+[2021.11.23-12.46.53:444][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.11.23-12.46.53:454][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.11.23-12.46.53:458][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.46.53:479][973]AssetCheck: New page: Asset Save: FacadeUpModel
+[2021.11.23-12.46.53:479][973]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/FacadeUpModel.FacadeUpModel
+[2021.11.23-12.47.00:375][385]LogContentBrowser: Attempting asset rename: M1_M1 -> RifleModel
+[2021.11.23-12.47.00:452][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/RifleModel" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/RifleModel.uasset" SILENT=true
+[2021.11.23-12.47.00:491][385]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/RifleModel236BBE48479234B89BE58986B1EC75E9.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/RifleModel.uasset'
+[2021.11.23-12.47.00:528][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.11.23-12.47.00:542][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-12.47.00:546][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.23-12.47.00:567][385]AssetCheck: New page: Asset Save: RifleModel
+[2021.11.23-12.47.00:567][385]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/RifleModel.RifleModel
+[2021.11.23-12.47.07:785][758]LogContentBrowser: Attempting asset rename: Bullet -> BulletMesh
+[2021.11.23-12.47.07:833][758]LogMetaData: Removing '/Game/InternalContent/Models/BulletMesh.BulletMesh' ref from Metadata '/Game/InternalContent/Models/Bullet.PackageMetaData'
+[2021.11.23-12.47.07:869][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/BulletMesh" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/BulletMesh.uasset" SILENT=true
+[2021.11.23-12.47.07:880][758]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/BulletMesh6E4E2047487481AB37950195267807A7.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/BulletMesh.uasset'
+[2021.11.23-12.47.07:928][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.23-12.47.07:939][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-12.47.07:943][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.47.07:964][758]AssetCheck: New page: Asset Save: BulletMesh
+[2021.11.23-12.47.07:964][758]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/BulletMesh.BulletMesh
+[2021.11.23-12.47.13:728][116]LogContentBrowser: Attempting asset rename: BulletMesh -> BulletMesh
+[2021.11.23-12.47.18:176][395]LogContentBrowser: Attempting asset rename: FacadeUpModel -> FacadeUpMesh
+[2021.11.23-12.47.18:289][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/FacadeUpMesh" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FacadeUpMesh.uasset" SILENT=true
+[2021.11.23-12.47.18:296][395]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/FacadeUpMesh974B27CA4935D2430FDD889CD04848B7.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FacadeUpMesh.uasset'
+[2021.11.23-12.47.18:345][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.23-12.47.18:356][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.11.23-12.47.18:360][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.47.18:381][395]AssetCheck: New page: Asset Save: FacadeUpMesh
+[2021.11.23-12.47.18:381][395]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/FacadeUpMesh.FacadeUpMesh
+[2021.11.23-12.47.21:534][640]LogContentBrowser: Attempting asset rename: FasadeWindowModel -> FasadeWindowMesh
+[2021.11.23-12.47.21:586][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/FasadeWindowMesh" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FasadeWindowMesh.uasset" SILENT=true
+[2021.11.23-12.47.21:592][640]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/FasadeWindowMeshF54A621E40C9600325B925BB59293FCE.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/FasadeWindowMesh.uasset'
+[2021.11.23-12.47.21:645][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.47.21:659][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.23-12.47.21:663][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.47.21:683][640]AssetCheck: New page: Asset Save: FasadeWindowMesh
+[2021.11.23-12.47.21:684][640]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/FasadeWindowMesh.FasadeWindowMesh
+[2021.11.23-12.47.25:035][852]LogContentBrowser: Attempting asset rename: RifleModel -> RifleMesh
+[2021.11.23-12.47.25:101][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Models/RifleMesh" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/RifleMesh.uasset" SILENT=true
+[2021.11.23-12.47.25:129][852]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/RifleMeshBE00F1584EA1B9C1F7F94082E685DBF0.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Models/RifleMesh.uasset'
+[2021.11.23-12.47.25:161][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.47.25:169][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.23-12.47.25:175][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.23-12.47.25:195][852]AssetCheck: New page: Asset Save: RifleMesh
+[2021.11.23-12.47.25:195][852]LogContentValidation: Display: Validating StaticMesh /Game/InternalContent/Models/RifleMesh.RifleMesh
+[2021.11.23-12.48.09:377][979]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-12.48.09:391][979]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-12.48.36:120][669]LogContentBrowser: Attempting asset rename: NewFolder -> Buildings
+[2021.11.23-12.48.36:120][669]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-12.49.46:788][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.11.23-12.49.48:228][929]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-12.49.53:043][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.11.23-12.49.54:511][315]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-12.49.54:566][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.23-12.49.54:580][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.49.54:584][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.49.55:245][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.23-12.49.56:250][370]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-12.49.56:317][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.23-12.49.56:330][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.49.56:335][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.49.59:905][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:905][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:906][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:906][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:906][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:907][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:907][728]LoadErrors: Failed to load /Game/Buildings/Building.Building Referenced by Building
+[2021.11.23-12.49.59:907][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:907][728]LoadErrors: Failed to load /Game/Buildings/Building.Building_C Referenced by Building_C
+[2021.11.23-12.49.59:907][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\Building.uasset: Failed to load '/Game/Buildings/Building': Can't find file.
+[2021.11.23-12.49.59:907][728]LoadErrors: Failed to load /Game/Buildings/Building.Default__Building_C Referenced by Default__Building_C
+[2021.11.23-12.49.59:908][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:909][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:909][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:909][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:910][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:910][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:910][728]LoadErrors: Failed to load /Game/Buildings/DestroyFacade1.Default__DestroyFacade1_C Referenced by Default__DestroyFacade1_C
+[2021.11.23-12.49.59:910][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:910][728]LoadErrors: Failed to load /Game/Buildings/DestroyFacade1.DestroyFacade1 Referenced by DestroyFacade1
+[2021.11.23-12.49.59:911][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\DestroyFacade1.uasset: Failed to load '/Game/Buildings/DestroyFacade1': Can't find file.
+[2021.11.23-12.49.59:911][728]LoadErrors: Failed to load /Game/Buildings/DestroyFacade1.DestroyFacade1_C Referenced by DestroyFacade1_C
+[2021.11.23-12.49.59:911][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:912][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:912][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:912][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:913][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:913][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:913][728]LoadErrors: Failed to load /Game/Buildings/FacadeWindow1.Default__FacadeWindow1_C Referenced by Default__FacadeWindow1_C
+[2021.11.23-12.49.59:913][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:913][728]LoadErrors: Failed to load /Game/Buildings/FacadeWindow1.FacadeWindow1 Referenced by FacadeWindow1
+[2021.11.23-12.49.59:914][728]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Models\FacadeWindow1.uasset: Failed to load '/Game/Buildings/FacadeWindow1': Can't find file.
+[2021.11.23-12.49.59:914][728]LoadErrors: Failed to load /Game/Buildings/FacadeWindow1.FacadeWindow1_C Referenced by FacadeWindow1_C
+[2021.11.23-12.49.59:918][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.11.23-12.50.01:105][728]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-12.50.01:145][728]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.23-12.50.03:114][728]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.969 s
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: 
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: Cannot remove redirection from /Game/InternalContent/Blueprints/Buildings/Models/Building.Building, it was not registered
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: Stack: 
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff86ba6988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff86778a71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffa84d4b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7cbcf0cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7cbcea8f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7c333f98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7c5fa04e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7c6070b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff875e859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff8760071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874446be UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874c7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874b0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874a3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc944bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc9439197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc944e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc9434310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffd87ae7e8 USER32.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffd87ae229 USER32.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc944f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874d2233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff8746d485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7c69c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff7cbce2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff64056bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff4ad770e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff4ad772ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff4ad67a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff648e0083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff648d9532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff649580e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff648dcfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff875e859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff8760071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874446be UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874c7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874b0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fff874a3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc944bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc9439197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc944e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc9434310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffd87ae7e8 USER32.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffd87ae229 USER32.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffc944f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007ff76c398848 UE4Editor.exe!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007ff76c3b117c UE4Editor.exe!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007ff76c3b125a UE4Editor.exe!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007ff76c3c52bd UE4Editor.exe!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007ff76c3c7fea UE4Editor.exe!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffd9a57034 KERNEL32.DLL!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: [Callstack] 0x00007fffd9c02651 ntdll.dll!UnknownFunction []
+[2021.11.23-12.50.03:121][728]LogOutputDevice: Error: 
+[2021.11.23-12.50.03:130][728]LogStats:                SubmitErrorReport -  0.000 s
+[2021.11.23-12.50.09:494][728]LogStats:                    SendNewReport -  6.363 s
+[2021.11.23-12.50.09:494][728]LogStats:             FDebug::EnsureFailed -  8.349 s
+[2021.11.23-12.50.09:548][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.23-12.50.09:554][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-12.50.09:559][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.23-12.50.09:572][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.11.23-12.50.09:579][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.11.23-12.50.09:593][728]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.23-12.50.09:614][728]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-12.50.09:614][728]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-12.50.15:961][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:961][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:961][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.15:962][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.15:962][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:962][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.15:963][ 23]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:963][ 23]LogLinker: Warning: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.15:963][ 23]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:963][ 23]LogLinker: Warning: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.15:964][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.15:964][ 23]LoadErrors: Failed to load /Game/Buildings/FasadeWindow.FasadeWindow Referenced by FasadeWindow_GEN_VARIABLE
+[2021.11.23-12.50.15:964][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:964][ 23]LoadErrors: Failed to load /Game/Shelters/GroupOfPositions.GroupOfPositions_C Referenced by GroupOfPositions_GEN_VARIABLE
+[2021.11.23-12.50.15:964][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:965][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:965][ 23]LogLinker: Warning: Unable to load GroupOfPositions_GEN_VARIABLE_GroupOfPositions_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces_C:GroupOfPositions_GEN_VARIABLE because its class does not exist
+[2021.11.23-12.50.15:965][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:965][ 23]LoadErrors: Failed to load /Game/Shelters/GroupOfPositions.GroupOfPositions_C Referenced by GroupOfPositions1_GEN_VARIABLE
+[2021.11.23-12.50.15:965][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:965][ 23]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindowWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.15:965][ 23]LogLinker: Warning: Unable to load GroupOfPositions_GEN_VARIABLE_GroupOfPositions_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces_C:GroupOfPositions1_GEN_VARIABLE because its class does not exist
+[2021.11.23-12.50.15:998][ 23]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces
+[2021.11.23-12.50.16:200][ 23]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.11.23-12.50.17:174][ 23]LogSlate: Took 0.009986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.23-12.50.18:772][147]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-12.50.19:050][164]LogSlate: Took 0.000807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.23-12.50.26:765][763]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/FacadeWindowWithPlacesBC3336FE439B8F9A022D05A6C38AF4C8.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/FacadeWindowWithPlaces.uasset'
+[2021.11.23-12.50.26:784][763]AssetCheck: New page: Asset Save: FacadeWindowWithPlaces
+[2021.11.23-12.50.26:785][763]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces
+[2021.11.23-12.50.27:284][806]BlueprintLog: New page: Compile FacadeWindowWithPlaces
+[2021.11.23-12.50.27:342][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.11.23-12.50.27:374][806]LogSlate: Took 0.008921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.23-12.50.28:115][868]LogSlate: Window 'FacadeWindowWithPlaces' being destroyed
+[2021.11.23-12.50.29:635][ 11]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindow.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.29:635][ 11]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindow.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.29:636][ 11]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindow.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.29:636][ 11]LogLinker: Warning: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.29:637][ 11]LogLinker: Warning: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.29:638][ 11]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\FacadeWindow.uasset: Failed to load '/Game/Buildings/FasadeWindow': Can't find file.
+[2021.11.23-12.50.29:682][ 11]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Buildings/FacadeWindow.FacadeWindow
+[2021.11.23-12.50.46:130][834]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/FacadeWindow17E88F694ED1400232C1F6A722544996.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/FacadeWindow.uasset'
+[2021.11.23-12.50.46:141][834]AssetCheck: New page: Asset Save: FacadeWindow
+[2021.11.23-12.50.46:141][834]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/FacadeWindow.FacadeWindow
+[2021.11.23-12.50.46:380][861]BlueprintLog: New page: Compile FacadeWindow
+[2021.11.23-12.50.46:423][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.23-12.50.46:536][869]BlueprintLog: New page: Compile FacadeWindow
+[2021.11.23-12.50.46:575][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.11.23-12.50.48:298][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:299][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:299][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.50.48:299][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.50.48:299][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:300][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.50.48:300][  4]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:300][  4]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.50.48:300][  4]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:301][  4]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.50.48:301][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:302][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:302][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:302][  4]LogLinker: Warning: Unable to load GroupOfPositions_GEN_VARIABLE_GroupOfPositions_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces_C:GroupOfPositions_GEN_VARIABLE because its class does not exist
+[2021.11.23-12.50.48:302][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:302][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:303][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-12.50.48:303][  4]LogLinker: Warning: Unable to load GroupOfPositions_GEN_VARIABLE_GroupOfPositions_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces_C:GroupOfPositions1_GEN_VARIABLE because its class does not exist
+[2021.11.23-12.50.48:303][  4]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacadeWithPlaces.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.50.48:334][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces
+[2021.11.23-12.51.01:830][501]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/DestroyFacadeWithPlaces4076DC294FFE31C5ED38E2AFC4B23BAB.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/DestroyFacadeWithPlaces.uasset'
+[2021.11.23-12.51.01:847][501]AssetCheck: New page: Asset Save: DestroyFacadeWithPlaces
+[2021.11.23-12.51.01:847][501]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces
+[2021.11.23-12.51.02:268][547]BlueprintLog: New page: Compile DestroyFacadeWithPlaces
+[2021.11.23-12.51.02:312][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.11.23-12.51.06:269][833]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.51.06:269][833]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.51.06:270][833]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.51.06:270][833]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.51.06:270][833]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.51.06:271][833]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\DestroyFacade.uasset: Failed to load '/Game/Buildings/FacadeUp': Can't find file.
+[2021.11.23-12.51.06:300][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Buildings/DestroyFacade.DestroyFacade
+[2021.11.23-12.51.13:319][600]BlueprintLog: New page: Compile DestroyFacade
+[2021.11.23-12.51.13:366][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.23-12.51.13:764][637]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/DestroyFacadeA1D84B974965D45423AF8EBF287AFECC.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/DestroyFacade.uasset'
+[2021.11.23-12.51.13:774][637]AssetCheck: New page: Asset Save: DestroyFacade
+[2021.11.23-12.51.13:775][637]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/DestroyFacade.DestroyFacade
+[2021.11.23-12.51.13:919][651]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/DestroyFacade23FA90954886A33C065F69B340B912D9.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/DestroyFacade.uasset'
+[2021.11.23-12.51.13:928][651]AssetCheck: New page: Asset Save: DestroyFacade
+[2021.11.23-12.51.13:929][651]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/DestroyFacade.DestroyFacade
+[2021.11.23-12.51.20:558][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:558][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:558][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:559][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:559][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:559][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:560][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:560][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:561][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:561][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:561][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:561][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:563][221]LogLinker: Warning: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:563][221]LogLinker: Warning: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:563][221]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:563][221]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:563][221]LogLinker: Warning: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:564][221]LogLinker: Warning: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:564][221]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:564][221]LogLinker: Warning: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:564][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:564][221]LoadErrors: Failed to load /Game/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces_C Referenced by NODE_AddChildActorComponent-6
+[2021.11.23-12.51.20:564][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:564][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:565][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-6_DestroyFacadeWithPlaces_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-6 because its class does not exist
+[2021.11.23-12.51.20:565][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:565][221]LoadErrors: Failed to load /Game/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces_C Referenced by NODE_AddChildActorComponent-7
+[2021.11.23-12.51.20:565][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:565][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:565][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-7_FacadeWindowWithPlaces_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-7 because its class does not exist
+[2021.11.23-12.51.20:565][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:565][221]LoadErrors: Failed to load /Game/Buildings/FacadeWindow.FacadeWindow_C Referenced by NODE_AddChildActorComponent-8
+[2021.11.23-12.51.20:566][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:566][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:566][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-8_FacadeWindow_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-8 because its class does not exist
+[2021.11.23-12.51.20:566][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:566][221]LoadErrors: Failed to load /Game/Buildings/DestroyFacade.DestroyFacade_C Referenced by NODE_AddChildActorComponent-9
+[2021.11.23-12.51.20:566][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-9_DestroyFacade_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-9 because its class does not exist
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:567][221]LoadErrors: Failed to load /Game/Buildings/FacadeWindow.FacadeWindow_C Referenced by NODE_AddChildActorComponent-12
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-12_FacadeWindow_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-12 because its class does not exist
+[2021.11.23-12.51.20:567][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:568][221]LoadErrors: Failed to load /Game/Buildings/DestroyFacade.DestroyFacade_C Referenced by NODE_AddChildActorComponent-13
+[2021.11.23-12.51.20:568][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:568][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:568][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-13_DestroyFacade_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-13 because its class does not exist
+[2021.11.23-12.51.20:568][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:568][221]LoadErrors: Failed to load /Game/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces_C Referenced by NODE_AddChildActorComponent-14
+[2021.11.23-12.51.20:568][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:569][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:569][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-14_FacadeWindowWithPlaces_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-14 because its class does not exist
+[2021.11.23-12.51.20:569][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:569][221]LoadErrors: Failed to load /Game/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces_C Referenced by NODE_AddChildActorComponent-15
+[2021.11.23-12.51.20:569][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:569][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:570][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-15_DestroyFacadeWithPlaces_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-15 because its class does not exist
+[2021.11.23-12.51.20:570][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:570][221]LoadErrors: Failed to load /Game/Buildings/FacadeWindow.FacadeWindow_C Referenced by NODE_AddChildActorComponent-16
+[2021.11.23-12.51.20:570][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:570][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindow': Can't find file.
+[2021.11.23-12.51.20:570][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-16_FacadeWindow_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-16 because its class does not exist
+[2021.11.23-12.51.20:570][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:570][221]LoadErrors: Failed to load /Game/Buildings/DestroyFacade.DestroyFacade_C Referenced by NODE_AddChildActorComponent-17
+[2021.11.23-12.51.20:571][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:571][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacade': Can't find file.
+[2021.11.23-12.51.20:571][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-17_DestroyFacade_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-17 because its class does not exist
+[2021.11.23-12.51.20:571][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:571][221]LoadErrors: Failed to load /Game/Buildings/FacadeWindowWithPlaces.FacadeWindowWithPlaces_C Referenced by NODE_AddChildActorComponent-18
+[2021.11.23-12.51.20:571][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:572][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/FacadeWindowWithPlaces': Can't find file.
+[2021.11.23-12.51.20:572][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-18_FacadeWindowWithPlaces_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-18 because its class does not exist
+[2021.11.23-12.51.20:572][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:572][221]LoadErrors: Failed to load /Game/Buildings/DestroyFacadeWithPlaces.DestroyFacadeWithPlaces_C Referenced by NODE_AddChildActorComponent-19
+[2021.11.23-12.51.20:572][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:572][221]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Buildings\Building.uasset: Failed to load '/Game/Buildings/DestroyFacadeWithPlaces': Can't find file.
+[2021.11.23-12.51.20:572][221]LogLinker: Warning: Unable to load NODE_AddChildActorComponent-19_DestroyFacadeWithPlaces_C_CAT with outer ChildActorComponent /Game/InternalContent/Blueprints/Buildings/Building.Building_C:NODE_AddChildActorComponent-19 because its class does not exist
+[2021.11.23-12.51.20:617][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Buildings/Building.Building
+[2021.11.23-12.51.30:022][266]BlueprintLog: New page: Compile Building
+[2021.11.23-12.51.30:087][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.23-12.51.30:582][296]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Building444CE3A4465FEB63231C818F342111AF.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/Building.uasset'
+[2021.11.23-12.51.30:593][296]AssetCheck: New page: Asset Save: Building
+[2021.11.23-12.51.30:593][296]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/Building.Building
+[2021.11.23-12.52.30:542][949]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Building8FA14507483BCD2BF7B00EADD420D4A7.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/Building.uasset'
+[2021.11.23-12.52.30:554][949]AssetCheck: New page: Asset Save: Building
+[2021.11.23-12.52.30:554][949]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/Building.Building
+[2021.11.23-12.52.30:889][985]BlueprintLog: New page: Compile Building
+[2021.11.23-12.52.30:956][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.23-12.52.31:105][986]BlueprintLog: New page: Compile Building
+[2021.11.23-12.52.31:169][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.11.23-12.52.32:229][ 93]BlueprintLog: New page: Compile Building
+[2021.11.23-12.52.32:294][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.11.23-12.52.32:737][144]BlueprintLog: New page: Compile Building
+[2021.11.23-12.52.32:800][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.11.23-12.52.50:035][ 42]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.23-12.53.16:495][ 92]BlueprintLog: New page: Compile Building
+[2021.11.23-12.53.16:572][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.23-12.53.21:088][597]BlueprintLog: New page: Compile Building
+[2021.11.23-12.53.21:158][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.11.23-12.53.21:605][646]BlueprintLog: New page: Compile Building
+[2021.11.23-12.53.21:690][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.23-12.53.22:029][681]BlueprintLog: New page: Compile Building
+[2021.11.23-12.53.22:099][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.11.23-12.53.22:490][725]BlueprintLog: New page: Compile Building
+[2021.11.23-12.53.22:559][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.11.23-12.53.22:944][766]BlueprintLog: New page: Compile Building
+[2021.11.23-12.53.23:025][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.11.23-12.53.27:283][220]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.23-12.53.59:744][755]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Building7360745C43D164D3C4B23DA20D4A791F.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/Building.uasset'
+[2021.11.23-12.53.59:757][755]AssetCheck: New page: Asset Save: Building
+[2021.11.23-12.53.59:757][755]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/Building.Building
+[2021.11.23-12.54.00:052][788]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.00:226][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.11.23-12.54.02:754][ 41]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.02:886][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.11.23-12.54.03:464][ 95]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.03:573][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.11.23-12.54.18:942][790]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.23-12.54.34:494][468]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Building172D65C7494BF3876512D9A0FF5908F9.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Buildings/Building.uasset'
+[2021.11.23-12.54.34:507][468]AssetCheck: New page: Asset Save: Building
+[2021.11.23-12.54.34:507][468]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Buildings/Building.Building
+[2021.11.23-12.54.34:757][494]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.34:897][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.11.23-12.54.39:113][921]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.39:245][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.11.23-12.54.39:622][949]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.39:747][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.11.23-12.54.40:031][951]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.40:148][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.11.23-12.54.40:490][978]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.40:595][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.23-12.54.40:886][997]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.40:983][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.11.23-12.54.41:337][ 29]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.41:464][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.11.23-12.54.41:619][ 32]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.41:713][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.23-12.54.41:843][ 33]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.41:953][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.11.23-12.54.42:197][ 50]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.42:317][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.23-12.54.42:404][ 51]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.42:526][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.23-12.54.42:623][ 51]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.42:708][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.11.23-12.54.42:768][ 51]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.42:877][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.23-12.54.42:977][ 51]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.43:100][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.23-12.54.43:177][ 51]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.43:284][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.23-12.54.43:374][ 51]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.43:465][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.11.23-12.54.44:115][111]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.44:207][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.11.23-12.54.44:608][148]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.44:704][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.23-12.54.45:109][186]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.45:215][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.23-12.54.45:675][222]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.45:786][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.23-12.54.46:227][264]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.46:330][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.23-12.54.46:743][299]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.46:878][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.23-12.54.47:190][329]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.47:291][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.23-12.54.47:729][364]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.47:833][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.11.23-12.54.48:201][399]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.48:308][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.23-12.54.48:685][432]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.48:790][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.23-12.54.53:872][ 14]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.53:965][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.23-12.54.54:358][ 52]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.54:449][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.23-12.54.54:811][ 86]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.54:920][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.11.23-12.54.55:222][111]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.55:317][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.23-12.54.55:621][138]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.55:750][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.23-12.54.56:024][154]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.56:129][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.23-12.54.56:435][181]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.56:554][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.23-12.54.56:816][195]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.56:912][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.11.23-12.54.57:401][242]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.57:506][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.11.23-12.54.57:834][268]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.57:933][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.11.23-12.54.58:354][305]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.58:510][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.23-12.54.58:813][325]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.58:936][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.23-12.54.59:380][368]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.59:471][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.23-12.54.59:834][392]BlueprintLog: New page: Compile Building
+[2021.11.23-12.54.59:968][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.11.23-12.55.00:379][430]BlueprintLog: New page: Compile Building
+[2021.11.23-12.55.00:491][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.11.23-12.55.01:076][482]BlueprintLog: New page: Compile Building
+[2021.11.23-12.55.01:202][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.11.23-12.55.01:663][519]BlueprintLog: New page: Compile Building
+[2021.11.23-12.55.01:777][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.23-12.55.02:183][559]BlueprintLog: New page: Compile Building
+[2021.11.23-12.55.02:283][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.23-12.55.02:692][596]BlueprintLog: New page: Compile Building
+[2021.11.23-12.55.02:783][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
