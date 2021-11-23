@@ -3061,3 +3061,250 @@ Make sure 'UE4ASP_HeroTPP_AnimBlueprint' has been compiled for  Get Jump Button 
 [2021.11.23-13.31.02:557][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.11.23-13.31.02:569][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
 [2021.11.23-13.31.02:589][259]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.23-13.31.55:696][238]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.31.55:697][238]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.32.19:172][910]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-13.32.19:178][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-13.32.19:178][910]PIE: New page: PIE session: Map (23 нояб. 2021 г., 19:32:19)
+[2021.11.23-13.32.19:178][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.11.23-13.32.19:190][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011991s)
+[2021.11.23-13.32.19:191][910]LogAIModule: Creating AISystem for world Map
+[2021.11.23-13.32.19:201][910]LogPlayLevel: PIE: World Init took: (0.010743s)
+[2021.11.23-13.32.19:201][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.022901s)
+[2021.11.23-13.32.19:238][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.23-13.32.19:240][910]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.23-13.32.19:240][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-13.32.19:240][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-13.32.19:240][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-13.32.19:240][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-13.32.19:240][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-13.32.19:240][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-13.32.19:241][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-13.32.19:241][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-13.32.19:241][910]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-13.32.19:241][910]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-13.32.19:255][910]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-13.32.19:255][910]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-13.32.19:266][910]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.11.23-13.32.19:266][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-13.32.19:266][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-13.32.19:266][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-13.32.19:267][910]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-13.32.19:267][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-13.32.19:267][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-13.32.19:281][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-13.32.19:281][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-13.32.19:281][910]LogInit: FAudioDevice initialized.
+[2021.11.23-13.32.19:281][910]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map'.
+[2021.11.23-13.32.19:291][910]LogLoad: Game class is 'RTSGameMode_C'
+[2021.11.23-13.32.19:293][910]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.11.23-16.32.19
+[2021.11.23-13.32.19:293][910]LogWorld: Bringing up level for play took: 0.001126
+[2021.11.23-13.32.19:293][910]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.11.23-13.32.19:295][910]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.23-13.32.19:296][910]PIE: Server logged in
+[2021.11.23-13.32.19:297][910]PIE: Play in editor total start time 0,119 seconds.
+[2021.11.23-13.32.21:375][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-13.32.21:375][ 84]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.11.23-13.32.21:375][ 84]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-13.32.21:375][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-13.32.21:382][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-13.32.21:387][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-13.32.21:415][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-13.32.21:415][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-13.32.21:416][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-13.32.21:435][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.11.23-13.32.21:450][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.11.23-13.32.46:753][727]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-13.32.46:791][727]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-13.32.52:098][ 91]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.32.52:098][ 91]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.32.53:253][170]LogContentBrowser: Attempting asset rename: NewFolder -> Units
+[2021.11.23-13.32.53:253][170]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-13.32.57:890][332]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.23-13.32.57:911][332]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.23-13.32.57:923][332]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.23-13.33.02:093][620]LogContentBrowser: Attempting asset rename: NewBlueprint -> UnitB
+[2021.11.23-13.33.02:141][620]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.23-13.33.02:673][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.11.23-13.33.03:595][655]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.33.03:690][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.11.23-13.33.31:899][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:899][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:899][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/AI/UnitAI': Can't find file.
+[2021.11.23-13.33.31:900][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/AI/UnitAI': Can't find file.
+[2021.11.23-13.33.31:900][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military': Can't find file.
+[2021.11.23-13.33.31:901][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military': Can't find file.
+[2021.11.23-13.33.31:901][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/Materials/UnitSelection_Material': Can't find file.
+[2021.11.23-13.33.31:901][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/Materials/UnitSelection_Material': Can't find file.
+[2021.11.23-13.33.31:901][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black': Can't find file.
+[2021.11.23-13.33.31:902][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black': Can't find file.
+[2021.11.23-13.33.31:902][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin': Can't find file.
+[2021.11.23-13.33.31:902][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin': Can't find file.
+[2021.11.23-13.33.31:903][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black': Can't find file.
+[2021.11.23-13.33.31:903][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military': Can't find file.
+[2021.11.23-13.33.31:903][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:903][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:904][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:904][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/AI/UnitAI': Can't find file.
+[2021.11.23-13.33.31:904][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:904][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:905][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/Materials/UnitSelection_Material': Can't find file.
+[2021.11.23-13.33.31:905][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:905][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:905][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin': Can't find file.
+[2021.11.23-13.33.31:906][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:906][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:906][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:906][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:906][ 70]LoadErrors: Failed to load /Game/Units/EAction.EAction Referenced by UnitBase_C
+[2021.11.23-13.33.31:907][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:907][ 70]LoadErrors: Failed to load /Game/Shelters/TypesOfShelterEnum.TypesOfShelterEnum Referenced by UnitBase_C
+[2021.11.23-13.33.31:907][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:907][ 70]LoadErrors: Failed to load /Game/Units/EAction.EAction Referenced by Change Current Action
+[2021.11.23-13.33.31:907][ 70]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/Units/AI/UnitAI': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/Units/Materials/UnitSelection_Material': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black': Can't find file.
+[2021.11.23-13.33.31:908][ 70]LogLinker: Warning: Failed to load '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/Units/AI/UnitAI': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:909][ 70]LogLinker: Warning: Failed to load '/Game/Units/Materials/UnitSelection_Material': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LogLinker: Warning: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LogLinker: Warning: Failed to load '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LogLinker: Warning: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LogLinker: Warning: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LogLinker: Warning: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/AI/UnitAI': Can't find file.
+[2021.11.23-13.33.31:910][ 70]LoadErrors: Failed to load /Game/Units/AI/UnitAI.UnitAI_C Referenced by Default__UnitBase_C
+[2021.11.23-13.33.31:911][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin': Can't find file.
+[2021.11.23-13.33.31:911][ 70]LoadErrors: Failed to load /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin Referenced by Default__UnitBase_C
+[2021.11.23-13.33.31:911][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military': Can't find file.
+[2021.11.23-13.33.31:911][ 70]LoadErrors: Failed to load /Game/ODSMannequin/Mannequin/Character/Materials/M_UE4Man_Body_Military.M_UE4Man_Body_Military Referenced by Default__UnitBase_C
+[2021.11.23-13.33.31:911][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black': Can't find file.
+[2021.11.23-13.33.31:911][ 70]LoadErrors: Failed to load /Game/ODSMannequin/FemaleMannequin/Character/Materials/MI_Mannequin_Decals_Black.MI_Mannequin_Decals_Black Referenced by Default__UnitBase_C
+[2021.11.23-13.33.31:912][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:914][ 70]LoadErrors: Failed to load /Game/Units/EAction.EAction Referenced by UnitBase
+[2021.11.23-13.33.31:914][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/TypesOfShelterEnum': Can't find file.
+[2021.11.23-13.33.31:914][ 70]LoadErrors: Failed to load /Game/Shelters/TypesOfShelterEnum.TypesOfShelterEnum Referenced by UnitBase
+[2021.11.23-13.33.31:914][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Shelters/GroupOfPositions': Can't find file.
+[2021.11.23-13.33.31:915][ 70]LoadErrors: Failed to load /Game/Shelters/GroupOfPositions.GroupOfPositions_C Referenced by UnitBase
+[2021.11.23-13.33.31:916][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:916][ 70]LoadErrors: Failed to load /Game/Wigets/SelectModeOfMovement.SelectModeOfMovement_C Referenced by K2Node_DynamicCast_1
+[2021.11.23-13.33.31:916][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:916][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:916][ 70]LoadErrors: Failed to load /Game/Wigets/SelectModeOfMovement.SelectModeOfMovement_C Referenced by K2Node_VariableSet_1
+[2021.11.23-13.33.31:917][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:917][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:917][ 70]LoadErrors: Failed to load /Game/Units/EAction.EAction Referenced by K2Node_FunctionEntry_1
+[2021.11.23-13.33.31:917][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:918][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:918][ 70]LoadErrors: Failed to load /Game/Units/EAction.EAction Referenced by K2Node_VariableSet_0
+[2021.11.23-13.33.31:918][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/EAction': Can't find file.
+[2021.11.23-13.33.31:918][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Units/Materials/UnitSelection_Material': Can't find file.
+[2021.11.23-13.33.31:918][ 70]LoadErrors: Failed to load /Game/Units/Materials/UnitSelection_Material.UnitSelection_Material Referenced by Decal_GEN_VARIABLE
+[2021.11.23-13.33.31:949][ 70]LogLinker: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: Failed to load '/Game/Wigets/SelectModeOfMovement': Can't find file.
+[2021.11.23-13.33.31:949][ 70]LoadErrors: Failed to load /Game/Wigets/SelectModeOfMovement.SelectModeOfMovement_C Referenced by Widget_GEN_VARIABLE
+[2021.11.23-13.33.31:973][ 70]LogBlueprint: Warning: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] Could not find a variable named "Unit" in 'UnitBase'.
+Make sure 'UnitBase' has been compiled for  Set Unit
+[2021.11.23-13.33.31:979][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.23-13.33.31:979][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  As Select Mode Of Movement  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:979][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.23-13.33.31:979][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Remove Unit Selection . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:980][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  Target  no longer exists on node  Remove Unit Selection . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:980][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  Unit  no longer exists on node  Remove Unit Selection . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:988][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] Could not find a function named "RemoveUnitSelection" in 'RTSController_C'.
+Make sure 'RTSController_C' has been compiled for  Remove Unit Selection
+[2021.11.23-13.33.31:989][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Add Unit to Selection . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:989][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  Target  no longer exists on node  Add Unit to Selection . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:989][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] In use pin  Unt Base  no longer exists on node  Add Unit to Selection . Please refresh node or break links to remove pin.
+[2021.11.23-13.33.31:989][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] Could not find a function named "AddUnitToSelection" in 'RTSController_C'.
+Make sure 'RTSController_C' has been compiled for  Add Unit to Selection
+[2021.11.23-13.33.31:990][ 70]LogBlueprint: Error: [AssetLog] C:\Users\Marshall\Documents\SimpleStrategy\Content\InternalContent\Blueprints\Units\UnitBase.uasset: [Compiler] The property associated with  Unit  could not be found in '/Game/InternalContent/Blueprints/Units/UnitBase.UnitBase_C'
+[2021.11.23-13.33.32:024][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Units/UnitBase.UnitBase
+[2021.11.23-13.33.59:965][894]LogSlate: Window 'Delete Variable' being destroyed
+[2021.11.23-13.34.37:647][309]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.34.37:721][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.11.23-13.34.43:955][ 20]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.34.44:006][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.11.23-13.34.49:065][597]LogEditorTransaction: Undo Remove Variable
+[2021.11.23-13.34.49:201][597]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-13.35.00:448][888]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.35.00:501][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.11.23-13.35.00:861][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Blueprints/Units/UnitBase" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/UnitBase.uasset" SILENT=true
+[2021.11.23-13.35.00:869][927]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/UnitBase7C1033EA480F717A916D0BB368A2F2C3.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/UnitBase.uasset'
+[2021.11.23-13.35.00:883][927]AssetCheck: New page: Asset Save: UnitBase
+[2021.11.23-13.35.00:883][927]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Units/UnitBase.UnitBase
+[2021.11.23-13.35.09:177][529]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.11.23-13.35.09:188][529]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.11.23-13.35.17:428][118]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> CurrentUnitActionEnum
+[2021.11.23-13.35.17:479][118]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.11.23-13.35.17:648][128]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.CurrentUnitActionEnum
+[2021.11.23-13.35.26:214][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.23-13.35.27:106][ 70]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.35.27:158][ 70]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.CurrentUnitActionEnum
+[2021.11.23-13.35.28:417][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.11.23-13.35.33:231][362]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.11.23-13.35.33:243][362]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.11.23-13.35.49:812][458]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> CurrentUnitActionEnum
+[2021.11.23-13.35.49:825][458]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.11.23-13.35.49:993][468]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.CurrentUnitActionEnum
+[2021.11.23-13.36.30:440][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.11.23-13.36.30:444][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Saved/Autosaves/Game/Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.23-13.36.30:650][545]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Map_Auto1EFA45C164437B9F4AC40B5A43B22A93E.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Autosaves/Game/Map_Auto1.umap'
+[2021.11.23-13.36.30:651][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.261
+[2021.11.23-13.36.30:721][545]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.261
+[2021.11.23-13.38.44:898][666]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/CurrentUnitActionEnum22F8AB0B40C6FFE0FBECAABACE524633.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.uasset'
+[2021.11.23-13.38.44:908][666]AssetCheck: New page: Asset Save: CurrentUnitActionEnum
+[2021.11.23-13.38.44:909][666]LogContentValidation: Display: Validating UserDefinedEnum /Game/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.CurrentUnitActionEnum
+[2021.11.23-13.38.45:064][682]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/CurrentUnitActionEnumF55F9C754991621218999D8A7ECA4603.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.uasset'
+[2021.11.23-13.38.45:075][682]AssetCheck: New page: Asset Save: CurrentUnitActionEnum
+[2021.11.23-13.38.45:075][682]LogContentValidation: Display: Validating UserDefinedEnum /Game/InternalContent/StructuresAndEnums/CurrentUnitActionEnum.CurrentUnitActionEnum
+[2021.11.23-13.38.57:526][893]LogSlate: Took 0.013014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.23-13.39.03:325][340]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.11.23-13.39.07:419][778]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.23-13.39.07:425][778]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.23-13.39.17:880][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Blueprints/Units/UnitBase" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/UnitBase.uasset" SILENT=true
+[2021.11.23-13.39.17:885][973]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/UnitBase43F3066E4485F0D66DDF538CE283A25D.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/UnitBase.uasset'
+[2021.11.23-13.39.17:900][973]AssetCheck: New page: Asset Save: UnitBase
+[2021.11.23-13.39.17:900][973]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Units/UnitBase.UnitBase
+[2021.11.23-13.39.18:244][ 12]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.39.18:300][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.11.23-13.39.38:711][361]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.11.23-13.39.39:168][379]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.11.23-13.39.39:322][387]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-13.39.40:436][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-13.40.00:235][750]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.11.23-13.40.01:127][801]LogEditorViewport: Clicking on Actor (LMB): UnitBase_C (UnitBase)
+[2021.11.23-13.40.01:490][819]Cmd: DELETE
+[2021.11.23-13.40.01:506][819]Cmd: ACTOR DELETE
+[2021.11.23-13.40.01:509][819]LogEditorActor: Deleted Actor: UnitBase_C
+[2021.11.23-13.40.01:550][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.23-13.40.01:552][819]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.11.23-13.40.19:807][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Blueprints/Units/UnitBase" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/UnitBase.uasset" SILENT=true
+[2021.11.23-13.40.19:816][138]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/UnitBase0CA2C9CF46AE898FC9F2D5940CF66A35.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/UnitBase.uasset'
+[2021.11.23-13.40.19:829][138]AssetCheck: New page: Asset Save: UnitBase
+[2021.11.23-13.40.19:829][138]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Units/UnitBase.UnitBase
+[2021.11.23-13.40.20:271][189]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.40.20:346][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.11.23-13.40.20:439][198]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.40.20:497][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.11.23-13.40.20:602][209]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.40.20:652][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.11.23-13.40.20:771][222]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.40.20:824][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.11.23-13.40.20:923][232]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.40.20:976][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.11.23-13.40.21:070][242]BlueprintLog: New page: Compile UnitBase
+[2021.11.23-13.40.21:121][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.23-13.40.32:576][173]Cmd: EDIT CUT
+[2021.11.23-13.40.32:579][173]LogEditorActor: Deleted Actor: UnitBase_C
+[2021.11.23-13.40.32:617][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.23-13.40.32:618][173]LogEditorActor: Deleted 1 Actors (0.041 secs)
