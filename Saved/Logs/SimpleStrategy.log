@@ -1104,3 +1104,305 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.01-12.44.43:530][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.12.01-12.44.43:557][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
 [2021.12.01-12.44.43:578][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.01-12.45.23:848][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/Blueprints/Places/Place.Place
+[2021.12.01-12.45.26:617][760]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-12.45.26:617][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.45.35:212][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Camera.Camera
+[2021.12.01-12.45.45:661][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset" SILENT=true
+[2021.12.01-12.45.45:722][940]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Camera32E65B0F4623E0D1C7B803B725674ABF.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset'
+[2021.12.01-12.45.45:735][940]AssetCheck: New page: Asset Save: Camera
+[2021.12.01-12.45.45:735][940]LogContentValidation: Display: Validating Blueprint /Game/Camera.Camera
+[2021.12.01-12.45.46:030][961]BlueprintLog: New page: Compile Camera
+[2021.12.01-12.45.46:173][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.12.01-12.45.47:308][  1]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-12.45.47:318][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-12.45.47:318][  1]PIE: New page: PIE session: Map (1 дек. 2021 г., 18:45:47)
+[2021.12.01-12.45.47:318][  1]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-12.45.47:532][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214061s)
+[2021.12.01-12.45.47:534][  1]LogAIModule: Creating AISystem for world Map
+[2021.12.01-12.45.47:534][  1]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2021.12.01-12.45.47:534][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.215789s)
+[2021.12.01-12.45.47:567][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.12.01-12.45.47:568][  1]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.01-12.45.47:568][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-12.45.47:568][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-12.45.47:568][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-12.45.47:568][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-12.45.47:592][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-12.45.47:592][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-12.45.47:592][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-12.45.47:593][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-12.45.47:593][  1]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-12.45.47:593][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-12.45.47:597][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-12.45.47:597][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-12.45.47:611][  1]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-12.45.47:611][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-12.45.47:611][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-12.45.47:611][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-12.45.47:612][  1]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-12.45.47:612][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-12.45.47:612][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-12.45.47:630][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-12.45.47:630][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-12.45.47:630][  1]LogInit: FAudioDevice initialized.
+[2021.12.01-12.45.47:630][  1]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map'.
+[2021.12.01-12.45.47:638][  1]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-12.45.47:708][  1]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-15.45.47
+[2021.12.01-12.45.47:754][  1]LogWorld: Bringing up level for play took: 0.114436
+[2021.12.01-12.45.47:755][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.12.01-12.45.47:756][  1]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-12.45.47:770][  1]PIE: Server logged in
+[2021.12.01-12.45.47:770][  1]PIE: Play in editor total start time 0,453 seconds.
+[2021.12.01-12.45.58:427][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.45.58:427][492]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-12.45.58:434][492]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-12.45.58:507][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.45.58:518][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-12.45.58:525][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.45.58:563][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-12.45.58:563][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.45.58:564][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.45.58:578][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.45.58:602][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.12.01-12.45.58:618][493]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.12.01-12.46.06:863][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset" SILENT=true
+[2021.12.01-12.46.06:909][195]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/CameraE2CB6F8949FA11720AF36A933116B564.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset'
+[2021.12.01-12.46.06:923][195]AssetCheck: New page: Asset Save: Camera
+[2021.12.01-12.46.06:923][195]LogContentValidation: Display: Validating Blueprint /Game/Camera.Camera
+[2021.12.01-12.46.07:113][210]BlueprintLog: New page: Compile Camera
+[2021.12.01-12.46.07:174][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.12.01-12.46.08:497][240]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-12.46.08:505][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-12.46.08:505][240]PIE: New page: PIE session: Map (1 дек. 2021 г., 18:46:08)
+[2021.12.01-12.46.08:505][240]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-12.46.08:761][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256306s)
+[2021.12.01-12.46.08:762][240]LogAIModule: Creating AISystem for world Map
+[2021.12.01-12.46.08:762][240]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2021.12.01-12.46.08:762][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.257579s)
+[2021.12.01-12.46.08:795][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.12.01-12.46.08:796][240]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-12.46.08:796][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-12.46.08:796][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-12.46.08:797][240]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-12.46.08:797][240]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-12.46.08:800][240]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-12.46.08:800][240]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-12.46.08:816][240]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-12.46.08:816][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-12.46.08:816][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-12.46.08:816][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-12.46.08:817][240]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-12.46.08:817][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-12.46.08:817][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-12.46.08:826][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-12.46.08:826][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-12.46.08:826][240]LogInit: FAudioDevice initialized.
+[2021.12.01-12.46.08:826][240]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map'.
+[2021.12.01-12.46.08:835][240]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-12.46.08:894][240]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-15.46.08
+[2021.12.01-12.46.08:947][240]LogWorld: Bringing up level for play took: 0.110494
+[2021.12.01-12.46.08:948][240]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.01-12.46.08:949][240]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-12.46.08:964][240]PIE: Server logged in
+[2021.12.01-12.46.08:965][240]PIE: Play in editor total start time 0,461 seconds.
+[2021.12.01-12.46.21:138][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.46.21:138][528]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-12.46.21:145][528]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-12.46.21:208][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.46.21:228][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-12.46.21:235][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.46.21:272][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-12.46.21:272][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.46.21:273][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.46.21:287][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.46.21:305][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.12.01-12.46.21:326][529]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.01-12.46.48:540][155]LogSlate: Took 0.006479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.01-12.47.11:580][751]BlueprintLog: New page: Compile Camera
+[2021.12.01-12.47.11:640][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.12.01-12.47.17:181][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset" SILENT=true
+[2021.12.01-12.47.17:226][375]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Camera02F02E4045C933D964ED5DA2AE412B8B.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset'
+[2021.12.01-12.47.17:240][375]AssetCheck: New page: Asset Save: Camera
+[2021.12.01-12.47.17:240][375]LogContentValidation: Display: Validating Blueprint /Game/Camera.Camera
+[2021.12.01-12.47.17:388][390]BlueprintLog: New page: Compile Camera
+[2021.12.01-12.47.17:451][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.12.01-12.47.18:710][428]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-12.47.18:719][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-12.47.18:719][428]PIE: New page: PIE session: Map (1 дек. 2021 г., 18:47:18)
+[2021.12.01-12.47.18:719][428]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-12.47.18:904][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.185173s)
+[2021.12.01-12.47.18:905][428]LogAIModule: Creating AISystem for world Map
+[2021.12.01-12.47.18:905][428]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2021.12.01-12.47.18:906][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.186726s)
+[2021.12.01-12.47.18:938][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.12.01-12.47.18:939][428]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-12.47.18:939][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-12.47.18:939][428]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-12.47.18:939][428]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-12.47.18:943][428]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-12.47.18:943][428]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-12.47.18:953][428]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-12.47.18:953][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-12.47.18:953][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-12.47.18:953][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-12.47.18:954][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-12.47.18:954][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-12.47.18:954][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-12.47.18:967][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-12.47.18:967][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-12.47.18:967][428]LogInit: FAudioDevice initialized.
+[2021.12.01-12.47.18:967][428]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map'.
+[2021.12.01-12.47.18:976][428]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-12.47.19:032][428]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-15.47.19
+[2021.12.01-12.47.19:076][428]LogWorld: Bringing up level for play took: 0.098849
+[2021.12.01-12.47.19:077][428]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.12.01-12.47.19:078][428]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-12.47.19:092][428]PIE: Server logged in
+[2021.12.01-12.47.19:092][428]PIE: Play in editor total start time 0,374 seconds.
+[2021.12.01-12.47.28:377][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.47.28:377][698]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-12.47.28:384][698]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-12.47.28:447][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.47.28:454][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-12.47.28:463][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.47.28:501][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-12.47.28:502][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.47.28:503][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.47.28:523][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.47.28:552][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.12.01-12.47.28:571][699]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.12.01-12.47.40:498][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset" SILENT=true
+[2021.12.01-12.47.40:543][988]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/CameraB0D71602427E56DAFF6E72B5624BF00C.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset'
+[2021.12.01-12.47.40:556][988]AssetCheck: New page: Asset Save: Camera
+[2021.12.01-12.47.40:556][988]LogContentValidation: Display: Validating Blueprint /Game/Camera.Camera
+[2021.12.01-12.47.45:830][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset" SILENT=true
+[2021.12.01-12.47.45:878][587]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Camera5430504B47FC6AB173270CA8C1C1B675.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset'
+[2021.12.01-12.47.45:890][587]AssetCheck: New page: Asset Save: Camera
+[2021.12.01-12.47.45:890][587]LogContentValidation: Display: Validating Blueprint /Game/Camera.Camera
+[2021.12.01-12.47.46:058][603]BlueprintLog: New page: Compile Camera
+[2021.12.01-12.47.46:127][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.12.01-12.47.47:471][658]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-12.47.47:479][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-12.47.47:480][658]PIE: New page: PIE session: Map (1 дек. 2021 г., 18:47:47)
+[2021.12.01-12.47.47:480][658]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-12.47.47:671][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191284s)
+[2021.12.01-12.47.47:672][658]LogAIModule: Creating AISystem for world Map
+[2021.12.01-12.47.47:672][658]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2021.12.01-12.47.47:672][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.192536s)
+[2021.12.01-12.47.47:705][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.12.01-12.47.47:705][658]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.01-12.47.47:705][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-12.47.47:705][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-12.47.47:706][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-12.47.47:706][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-12.47.47:706][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-12.47.47:706][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-12.47.47:706][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-12.47.47:706][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-12.47.47:706][658]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-12.47.47:706][658]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-12.47.47:709][658]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-12.47.47:709][658]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-12.47.47:720][658]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-12.47.47:720][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-12.47.47:720][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-12.47.47:720][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-12.47.47:720][658]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-12.47.47:720][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-12.47.47:720][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-12.47.47:734][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-12.47.47:734][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-12.47.47:734][658]LogInit: FAudioDevice initialized.
+[2021.12.01-12.47.47:734][658]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map'.
+[2021.12.01-12.47.47:741][658]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-12.47.47:797][658]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-15.47.47
+[2021.12.01-12.47.47:841][658]LogWorld: Bringing up level for play took: 0.098606
+[2021.12.01-12.47.47:842][658]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.01-12.47.47:843][658]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-12.47.47:879][658]PIE: Server logged in
+[2021.12.01-12.47.47:880][658]PIE: Play in editor total start time 0,401 seconds.
+[2021.12.01-12.48.02:517][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.48.02:517][ 36]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-12.48.02:524][ 36]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-12.48.02:590][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.48.02:605][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-12.48.02:619][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.48.02:662][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-12.48.02:663][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.48.02:663][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.48.02:678][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.48.02:696][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.12.01-12.48.02:717][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.01-12.48.12:648][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset" SILENT=true
+[2021.12.01-12.48.12:693][136]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/CameraD7C9E7E14BAA59704FF10E85920A2876.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/Camera.uasset'
+[2021.12.01-12.48.12:707][136]AssetCheck: New page: Asset Save: Camera
+[2021.12.01-12.48.12:707][136]LogContentValidation: Display: Validating Blueprint /Game/Camera.Camera
+[2021.12.01-12.48.12:930][159]BlueprintLog: New page: Compile Camera
+[2021.12.01-12.48.12:999][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.12.01-12.48.13:982][183]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-12.48.13:990][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-12.48.13:990][183]PIE: New page: PIE session: Map (1 дек. 2021 г., 18:48:13)
+[2021.12.01-12.48.13:991][183]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-12.48.14:180][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188919s)
+[2021.12.01-12.48.14:181][183]LogAIModule: Creating AISystem for world Map
+[2021.12.01-12.48.14:181][183]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.12.01-12.48.14:181][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.190234s)
+[2021.12.01-12.48.14:213][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.12.01-12.48.14:215][183]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-12.48.14:215][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-12.48.14:215][183]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-12.48.14:215][183]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-12.48.14:218][183]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-12.48.14:219][183]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-12.48.14:229][183]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-12.48.14:229][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-12.48.14:229][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-12.48.14:229][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-12.48.14:230][183]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-12.48.14:230][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-12.48.14:230][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-12.48.14:231][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-12.48.14:231][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-12.48.14:231][183]LogInit: FAudioDevice initialized.
+[2021.12.01-12.48.14:231][183]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map'.
+[2021.12.01-12.48.14:248][183]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-12.48.14:304][183]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-15.48.14
+[2021.12.01-12.48.14:348][183]LogWorld: Bringing up level for play took: 0.098208
+[2021.12.01-12.48.14:348][183]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.12.01-12.48.14:349][183]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-12.48.14:362][183]PIE: Server logged in
+[2021.12.01-12.48.14:363][183]PIE: Play in editor total start time 0,373 seconds.
+[2021.12.01-12.48.32:400][876]LogBlueprintUserMessages: [RTSController_C_0] 1
+[2021.12.01-12.48.42:978][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.48.42:978][276]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-12.48.42:987][276]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-12.48.43:050][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.48.43:056][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-12.48.43:064][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-12.48.43:103][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-12.48.43:103][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.48.43:104][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-12.48.43:118][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-12.48.43:139][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.12.01-12.48.43:157][277]LogPlayLevel: Display: Destroying online subsystem :Context_23
