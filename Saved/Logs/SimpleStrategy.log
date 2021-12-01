@@ -31786,3 +31786,193 @@ Officer3
 [2021.12.01-09.32.51:997][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.12.01-09.32.52:017][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
 [2021.12.01-09.32.52:055][289]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.12.01-09.36.18:095][559]LogContentBrowser: Attempting asset rename: Sergeant -> Sergeant
+[2021.12.01-09.36.31:899][898]LogEditorViewport: Clicking on Actor (LMB): Sergeant_C (Sergeant)
+[2021.12.01-09.37.41:112][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Blueprints/Units/Sergeant" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/Sergeant.uasset" SILENT=true
+[2021.12.01-09.37.41:119][831]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Sergeant0093495647C7D3FC8809A68C9B7DD444.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/Sergeant.uasset'
+[2021.12.01-09.37.41:133][831]AssetCheck: New page: Asset Save: Sergeant
+[2021.12.01-09.37.41:133][831]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Units/Sergeant.Sergeant
+[2021.12.01-09.37.41:783][906]BlueprintLog: New page: Compile Sergeant
+[2021.12.01-09.37.41:886][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.12.01-09.38.00:274][654]LogSlate: Took 0.034253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.01-09.38.05:717][275]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.38.05:796][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.12.01-09.39.36:348][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.12.01-09.39.36:351][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Saved/Autosaves/Game/Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.01-09.39.37:085][238]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Map_Auto3DE55E3F54797209B780DD9B2B92EBCC1.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Autosaves/Game/Map_Auto3.umap'
+[2021.12.01-09.39.37:093][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.808
+[2021.12.01-09.39.37:093][238]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.808
+[2021.12.01-09.42.13:633][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Blueprints/Units/Sergeant" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/Sergeant.uasset" SILENT=true
+[2021.12.01-09.42.13:640][333]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Sergeant23720C924A2FF6ACE56C4F8BECE66723.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/Sergeant.uasset'
+[2021.12.01-09.42.13:657][333]AssetCheck: New page: Asset Save: Sergeant
+[2021.12.01-09.42.13:657][333]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Units/Sergeant.Sergeant
+[2021.12.01-09.42.14:205][397]BlueprintLog: New page: Compile Sergeant
+[2021.12.01-09.42.14:307][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.12.01-09.42.16:967][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.42.16:982][682]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidget58FA11E44F0216BF6E00ADB362126DB8.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.42.17:001][682]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/InternalContent/Widgets/SelectSergeantWidget.
+[2021.12.01-09.42.17:007][682]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.42.17:007][682]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.42.42:548][664]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-09.42.42:549][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.42.44:718][831]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-09.42.44:718][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.42.46:759][  3]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-09.42.46:759][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.43.01:102][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InternalContent/AI/Sergeant/GoToPointTask.GoToPointTask
+[2021.12.01-09.43.07:235][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/AI/Sergeant/GoToPointTask" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/AI/Sergeant/GoToPointTask.uasset" SILENT=true
+[2021.12.01-09.43.07:256][271]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/GoToPointTaskB7F7C52646D2CA32CA7AF587BE903409.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/AI/Sergeant/GoToPointTask.uasset'
+[2021.12.01-09.43.07:269][271]AssetCheck: New page: Asset Save: GoToPointTask
+[2021.12.01-09.43.07:269][271]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/AI/Sergeant/GoToPointTask.GoToPointTask
+[2021.12.01-09.43.08:044][359]BlueprintLog: New page: Compile GoToPointTask
+[2021.12.01-09.43.08:161][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.01-09.43.08:320][372]BlueprintLog: New page: Compile GoToPointTask
+[2021.12.01-09.43.08:401][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.12.01-09.44.42:190][339]BlueprintLog: New page: Compile Sergeant
+[2021.12.01-09.44.42:289][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.12.01-09.44.42:770][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Blueprints/Units/Sergeant" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/Sergeant.uasset" SILENT=true
+[2021.12.01-09.44.42:777][390]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/Sergeant59FA98E548AA5F15D243BFA4BD5E5F0C.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Blueprints/Units/Sergeant.uasset'
+[2021.12.01-09.44.42:789][390]AssetCheck: New page: Asset Save: Sergeant
+[2021.12.01-09.44.42:789][390]LogContentValidation: Display: Validating Blueprint /Game/InternalContent/Blueprints/Units/Sergeant.Sergeant
+[2021.12.01-09.45.56:754][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.45.56:762][957]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidget978CF8B24D17E6BB54BDBF8FC6781122.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.45.56:775][957]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.45.56:775][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.45.57:229][  8]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.45.57:308][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.12.01-09.46.47:472][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.46.47:483][778]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidget20991DF94B5AD9BBA456CFBAD080C23F.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.46.47:495][778]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.46.47:495][778]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.46.47:808][813]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.46.47:887][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.12.01-09.46.56:221][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.46.56:231][777]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidget219F9B4F4A0F19E221A61DB5A2872546.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.46.56:247][777]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.46.56:247][777]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.46.56:777][838]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.46.56:854][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.12.01-09.46.56:929][843]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.46.57:003][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.12.01-09.47.25:073][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.47.25:083][ 81]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidgetA9826D5D43B9C0FDFEEA64BE8FE6C529.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.47.25:095][ 81]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.47.25:095][ 81]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.47.25:782][158]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.47.25:859][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.12.01-09.47.29:683][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-09.47.29:700][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-09.47.29:700][535]PIE: New page: PIE session: Map (1 дек. 2021 г., 15:47:29)
+[2021.12.01-09.47.29:735][535]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-09.47.29:924][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188428s)
+[2021.12.01-09.47.29:925][535]LogAIModule: Creating AISystem for world Map
+[2021.12.01-09.47.29:925][535]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2021.12.01-09.47.29:925][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.190022s)
+[2021.12.01-09.47.29:976][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.12.01-09.47.29:977][535]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-09.47.29:977][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-09.47.29:977][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-09.47.29:977][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-09.47.29:998][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-09.47.29:998][535]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-09.47.30:010][535]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-09.47.30:010][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-09.47.30:010][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-09.47.30:010][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-09.47.30:010][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-09.47.30:010][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-09.47.30:010][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-09.47.30:023][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-09.47.30:023][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-09.47.30:023][535]LogInit: FAudioDevice initialized.
+[2021.12.01-09.47.30:023][535]LogAudio: Display: Audio Device (ID: 57) registered with world 'Map'.
+[2021.12.01-09.47.30:031][535]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-09.47.30:089][535]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-12.47.30
+[2021.12.01-09.47.30:135][535]LogWorld: Bringing up level for play took: 0.102707
+[2021.12.01-09.47.30:135][535]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.12.01-09.47.30:137][535]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-09.47.30:148][535]LogBlueprintUserMessages: [AI_Sergeant_C_0] RUN
+[2021.12.01-09.47.30:159][535]PIE: Server logged in
+[2021.12.01-09.47.30:160][535]PIE: Play in editor total start time 0,47 seconds.
+[2021.12.01-09.47.33:533][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-09.47.33:533][724]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-09.47.33:542][724]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-09.47.33:607][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.47.33:618][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-09.47.33:632][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.47.33:687][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-09.47.33:687][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-09.47.33:688][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-09.47.33:705][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-09.47.33:730][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.12.01-09.47.33:773][725]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.12.01-09.47.42:023][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.47.42:034][648]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidget58B8B4DC41BC60BEA73684B17B418B98.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.47.42:046][648]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.47.42:047][648]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.48.35:568][917]BlueprintLog: New page: Compile SelectSergeantWidget
+[2021.12.01-09.48.35:647][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.12.01-09.48.36:125][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InternalContent/Widgets/SelectSergeantWidget" FILE="C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset" SILENT=true
+[2021.12.01-09.48.36:136][955]LogSavePackage: Moving 'C:/Users/Marshall/Documents/SimpleStrategy/Saved/SelectSergeantWidget6B990AD341399E238EBB33A6BA1EF893.tmp' to 'C:/Users/Marshall/Documents/SimpleStrategy/Content/InternalContent/Widgets/SelectSergeantWidget.uasset'
+[2021.12.01-09.48.36:148][955]AssetCheck: New page: Asset Save: SelectSergeantWidget
+[2021.12.01-09.48.36:148][955]LogContentValidation: Display: Validating WidgetBlueprint /Game/InternalContent/Widgets/SelectSergeantWidget.SelectSergeantWidget
+[2021.12.01-09.48.37:360][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-09.48.37:376][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-09.48.37:376][ 41]PIE: New page: PIE session: Map (1 дек. 2021 г., 15:48:37)
+[2021.12.01-09.48.37:377][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2021.12.01-09.48.37:564][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187561s)
+[2021.12.01-09.48.37:565][ 41]LogAIModule: Creating AISystem for world Map
+[2021.12.01-09.48.37:565][ 41]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2021.12.01-09.48.37:566][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.188929s)
+[2021.12.01-09.48.37:615][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.12.01-09.48.37:615][ 41]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2021.12.01-09.48.37:615][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-09.48.37:615][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-09.48.37:616][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-09.48.37:616][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-09.48.37:616][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-09.48.37:616][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-09.48.37:616][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-09.48.37:616][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-09.48.37:617][ 41]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.01-09.48.37:617][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-09.48.37:620][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-09.48.37:620][ 41]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-09.48.37:632][ 41]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.12.01-09.48.37:632][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-09.48.37:632][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-09.48.37:632][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-09.48.37:633][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-09.48.37:633][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-09.48.37:633][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-09.48.37:646][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-09.48.37:646][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-09.48.37:646][ 41]LogInit: FAudioDevice initialized.
+[2021.12.01-09.48.37:646][ 41]LogAudio: Display: Audio Device (ID: 58) registered with world 'Map'.
+[2021.12.01-09.48.37:653][ 41]LogLoad: Game class is 'RTSGameMode_C'
+[2021.12.01-09.48.37:713][ 41]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.12.01-12.48.37
+[2021.12.01-09.48.37:771][ 41]LogWorld: Bringing up level for play took: 0.117124
+[2021.12.01-09.48.37:771][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.12.01-09.48.37:773][ 41]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.01-09.48.37:784][ 41]LogBlueprintUserMessages: [AI_Sergeant_C_0] RUN
+[2021.12.01-09.48.37:787][ 41]PIE: Server logged in
+[2021.12.01-09.48.37:788][ 41]PIE: Play in editor total start time 0,422 seconds.
+[2021.12.01-09.48.40:132][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-09.48.40:132][185]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2021.12.01-09.48.40:139][185]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-09.48.40:204][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.48.40:214][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.01-09.48.40:229][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-09.48.40:284][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-09.48.40:284][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-09.48.40:285][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.01-09.48.40:300][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-09.48.40:319][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.12.01-09.48.40:358][186]LogPlayLevel: Display: Destroying online subsystem :Context_80
